@@ -1,0 +1,240 @@
+@charset "utf-8";
+
+/* раздел «о нас»
+НИИ видеоигр как это?
+Видеоигры давно вышли за рамки развлечения. Сегодня это – культурные коды, инструменты обучения, модели будущего и мощный стимул для развития технологий. Научно-исследовательский институт по видеоиграм был создан, чтобы изучать, как цифровые миры влияют на нас, как развиваются игровые технологии и каким образом игры могут стать частью научного, образовательного и социального прогресса.
+Наша миссия
+Институт объединяет ученых, разработчиков, аналитиков и педагогов для глубокого, междисциплинарного изучения видеоигр. Мы рассматриваем их как сложные интерактивные системы, способные отражать и формировать мышление, культуру и поведение.
+Мы стремимся:
+создавать научную базу для анализа игровых процессов;
+разрабатывать и тестировать обучающие и терапевтические игровые модели;
+внедрять научные подходы в геймдев и UX/UI-дизайн;
+формировать этические и методологические стандарты работы с интерактивными медиа.
+
+Направления наших исследований
+Мы изучаем не только то, что происходит в играх, но и как они влияют на игроков и общество. Наши ключевые направления:
+Психология и нейронаука: как игры влияют на когнитивные функции.
+Образовательные технологии: геймификация, VR-обучение, игровые симуляции для медицины, инженерии, лингвистики.
+Культурный анализ: нарративные и этические аспекты игр, репрезентация в игровых мирах.
+Игровая механика и поведение: как дизайн влияет на выборы игроков, в том числе в мультиплеере.
+ИИ и нейронные сети: использование искусственного интеллекта в анализе и создании игр.
+Игровая зависимость и цифровое здоровье: исследование рисков и профилактика.
+Наши лаборатории
+Институт располагает современными лабораториями:
+Лаборатория когнитивных исследований (с использованием нейроинтерфейсов и трекинга внимания).
+VR/AR-центр для тестирования и обучения в иммерсивной среде.
+Аналитическая студия нарратива. Изучаем сюжет, репрезентации, культурные отсылоки.
+Центр поведенческого анализа. Исследуем взаимодействия игроков с интерфейсом и механиками.
+С кем мы работаем
+Мы активно сотрудничаем с:
+игровыми студиями и IT-компаниями;
+университетами и исследовательскими центрами;
+образовательными платформами;
+специалистами в области психологии, педагогики, кибербезопасности и UX/UI.
+Образование и развитие
+Мы обучаем новое поколение специалистов по многим программам, в их числе:
+курсы и стажировки по геймдизайну, игровой аналитике, digital storytelling;
+магистратура и аспирантура по направлениям «Интерактивные цифровые медиа», «Цифровой дизайн», «Цифровая биохимия», «Цифровая биомеханика» и др;
+мастер-классы и школы для учителей, врачей и разработчиков.
+
+Наш взгляд в будущее
+Видеоигры становятся цифровыми симуляторами общества, экономических моделей и эмоционального опыта. Исследования, которые мы проводим сегодня, помогут:
+проектировать эффективные обучающие платформы;
+создавать терапевтические игры для людей с ментальными проблемами;
+развивать игры как форму искусства и культурной памяти;
+внедрять игровые методы в управление, медицину, инженерию и науку.
+Присоединяйтесь!
+
+
+Мы открыты к сотрудничеству с учёными, разработчиками, студентами и компаниями, которым интересен осознанный подход к играм.
+
+НИИ видеоигр – место, где игры становятся наукой.
+<html>
+<head>
+<meta charset="utf-8">
+<title>index</title>
+<style type="text/css">
+body {
+	background-color: #131313;
+}
+body,td,th {
+    color: #FFFFFF;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+#apDiv1 {
+	position: absolute;
+	width: 305px;
+	height: 47px;
+	z-index: 1;
+	left: 290px;
+	top: 270px;
+}
+#apDiv2 {
+	position: absolute;
+	width: 260px;
+	height: 46px;
+	z-index: 2;
+	color: #fed000;
+	left: 768px;
+	top: 269px;
+}
+#apDiv3 {
+	position: absolute;
+	width: 328px;
+	height: 43px;
+	z-index: 3;
+	left: 1176px;
+	top: 271px;
+	color: #69c0b0;
+}
+#apDiv4 {
+	position: absolute;
+	width: 638px;
+	height: 46px;
+	z-index: 4;
+	left: 549px;
+	top: 177px;
+}
+#apDiv5 {
+	position: absolute;
+	width: 372px;
+	height: 67px;
+	z-index: 5;
+	left: 186px;
+	top: 57px;
+}
+#apDiv6 {
+	position: absolute;
+	width: 110px;
+	height: 115px;
+	z-index: 6;
+	left: 66px;
+	top: 57px;
+}
+#apDiv7 {
+	position: absolute;
+	width: 945px;
+	height: 421px;
+	z-index: 7;
+	left: 299px;
+	top: 369px;
+}
+.Ч {
+	color: #000;
+}
+.Ч {
+	color: #000;
+}
+#apDiv8 {
+	position: absolute;
+	width: 211px;
+	height: 206px;
+	z-index: 8;
+	left: 297px;
+	top: 839px;
+}
+#apDiv9 {
+	position: absolute;
+	width: 253px;
+	height: 210px;
+	z-index: 9;
+	left: 738px;
+	top: 833px;
+}
+#apDiv10 {
+	position: absolute;
+	width: 294px;
+	height: 215px;
+	z-index: 10;
+	left: 1154px;
+	top: 840px;
+}
+</style>
+</head>
+
+<body text="#FFFFFF" link="#FFFFFF" vlink="#FFFFFF" alink="#FFFFFF">
+	
+<center>
+	<p style="text-align: right; color: #40DCAE; font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', 'Arial Black', sans-serif; font-size: 25px;">&nbsp;</p>
+	</img scr>
+    <div id="apDiv5"><span style="color: #fed000; font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', 'Arial Black', sans-serif; font-size: 39px; text-align: left;">НИИ ВИДЕОИГР</span></div>
+    <div id="apDiv8">
+      <p align="left"><a href="Практика БАБИЧ/index.html">О нас</a></p>
+      <p align="left"><a href="Практика БАБИЧ/new.html">Новости</a></p>
+      <p align="left"><a href="Практика БАБИЧ/nayka.html">Научные исследования</a></p>
+      <p align="left"><a href="Практика БАБИЧ/hg">Документы</a></p>
+      <p align="left">&nbsp;</p>
+    </div>
+    <div id="apDiv6"><img src = "Практика БАБИЧ/logo.jpg" ></div>
+    <p style="color: #fed000; font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', 'Arial Black', sans-serif; font-size: 39px; text-align: left;">&nbsp;</p>
+    <div id="apDiv1"><span style="text-align: center; color: #C3156B; font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', 'Arial Black', sans-serif; font-size: 27px;">+500	исследований</span></div>
+	<p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <main>
+    <div id="apDiv4"><span style="font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', 'Arial Black', sans-serif; font-size: 35px; color: #69c0b0;">Создаём будущее игровой индустрии</span></div>
+    <p style="font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', 'Arial Black', sans-serif; font-size: 35px; color: #69c0b0;">&nbsp;</p>
+    <div id="apDiv3"><span style="text-align: center; font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', 'Arial Black', sans-serif; font-size: 27px; color: #69c0b0;">+50 интерактивных демо</span></div>
+    <p style="font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', 'Arial Black', sans-serif; font-size: 24px; color: #C3156B;">&nbsp;</p>
+  </main>
+</center>
+<table width="212" height="316" border="2" align="right">
+  <tbody>
+    <tr bgcolor="#fabd00">
+      <td width="200" height="47" class="Ч" style="text-align: center">ОБРАЗОВАНИЕ</td>
+    </tr>
+    <tr>
+      <td height="60" align="center" valign="middle"><a href="Практика БАБИЧ/obr.html">Образование</a></td>
+    </tr>
+    <tr>
+      <td height="79" align="center" valign="middle"><a href="Практика БАБИЧ/nap.html">Направления подготовки</a></td>
+    </tr>
+    <tr>
+      <td height="62" align="center" valign="middle"><a href="Практика БАБИЧ/styd.html">Наши студенты</a></td>
+    </tr>
+    <tr>
+      <td height="52" align="center" valign="middle"><a href="Практика БАБИЧ/doc.html">Подать документы</a></td>
+    </tr>
+  </tbody>
+</table>
+<table width="212" height="325" border="2" align="left">
+  <tbody>
+    <tr bgcolor="#fabd00">
+      <td width="200" height="47" class="Ч" style="text-align: center">НАУКА</td>
+    </tr>
+    <tr>
+      <td height="60" align="center" valign="middle"> <a href="Практика БАБИЧ/index.html">О нас</a></td>
+    </tr>
+    <tr>
+      <td height="72" align="center" valign="middle"><a href="Практика БАБИЧ/new.html">Новости</a></td>
+    </tr>
+    <tr>
+      <td height="63" align="center" valign="middle"><a href="Практика БАБИЧ/nayka.html">Научные исследования</a></td>
+    </tr>
+    <tr>
+      <td height="67" align="center" valign="middle"><a href="Практика БАБИЧ/kont.html">Контакты</a></td>
+    </tr>
+  </tbody>
+</table>
+<p style="text-align: center; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', 'DejaVu Sans', Verdana, sans-serif;">&nbsp;</p>
+<div id="apDiv2"><span style="text-align: center; font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', 'Arial Black', sans-serif; color: #fed000; font-size: 27px;">+120 игровых жанров</span></div>
+<div id="apDiv7"></div>
+<div id="apDiv9">
+  <p><a href="Практика БАБИЧ/obr.html">Образование</a></p>
+  <p><a href="Практика БАБИЧ/nap.html">Направления подготовки</a></p>
+  <p><a href="Практика БАБИЧ/styd.html">Наши студенты</a></p>
+  <p><a href="Практика БАБИЧ/doc.html">Подать документы</a></p>
+  <p>&nbsp;</p>
+</div>
+<div id="apDiv10">
+  <p>Телефон: <strong>+7 (800) 180-88-45<br>
+  </strong><br>
+  E-mail:<strong> niigame.yandex.ru</strong> </p>
+  <p><strong><a href="Практика БАБИЧ/za.html">Оставить заявку</a></strong></p>
+</div>
+</body>
+</html>
+
+
+
+
+Font-family:sent-serif
